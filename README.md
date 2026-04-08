@@ -30,7 +30,7 @@ Scikit-learn
 Installation
 Clone the repository.
 
-  https://github.com/chetankumarpulipati/animal-emotion-detection.git
+  https://github.com/Danunjayareddy/Animal-Emotion-Detection-Using-Deep-Learning.git
 Install the required dependencies using pip:
 
 pip install tensorflow opencv-python numpy pandas seaborn matplotlib scikit-learn
