@@ -38,7 +38,7 @@ This project aims to detect the emotions of dogs from images using computer visi
 
 1.  Clone the repository.
      ```bash
-       https://github.com/chetankumarpulipati/animal-emotion-detection.git
+       https://github.com/Danunjayareddy/Animal-Emotion-Detection-Using-Deep-Learning.git
      ```
 2.  Install the required dependencies using pip:
 
